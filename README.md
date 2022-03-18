@@ -1,5 +1,5 @@
-# kickstarter-analysis
-# Written Report Deliverable 3
+# Kickstarter Campaign Analysis
+Written Report Deliverale 3
 ## Overview of Project
 We are given raw data from our client, Louise, and need to help guide her into a new business venture based on data-driven conclusions.
 
@@ -41,4 +41,4 @@ The higher investment ranges did not have very much data to work with. All inves
 - What are some other possible tables and/or graphs that we could create?
 It may be interesting to take inflation into consideration when considering investment. This may shift the data for a more honest review. It may also be beneficial to further consider what the successful ventures had in common in regards to location. 
 
-
+Based on these findings, it is reccomended to keep the investment to be under $5000, and to Launch her play in May if possible.
